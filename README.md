@@ -2,4 +2,6 @@
 
 Hi there!
 
-I am a student of CS.
+I am a Game Design student.
+
+
